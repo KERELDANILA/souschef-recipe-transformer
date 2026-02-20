@@ -1,0 +1,156 @@
+{
+  "generic_name_en": "Cake",
+  "generic_name_nl": "Cake",
+  "recipe_name_en": "Chocolate Cake",
+  "recipe_name_nl": "Chocoladecake",
+  "description_en": "Make a delicious chocolate cake with this easy recipe. Follow the steps and you'll have a tasty cake in no time!",
+  "description_nl": "Maak een lekkere chocoladecake met deze eenvoudige recept. Volg de stappen en je hebt binnen no time een lekkere cake!",
+  "difficulty": "Medium",
+  "servings": 8,
+  "prep_time_minutes": 25,
+  "cook_time_minutes": 35,
+  "calories_per_person": 350,
+  "protein_g": 4.0,
+  "carbs_g": 50.0,
+  "fat_g": 15.0,
+  "ingredients": [
+    {
+      "name_en": "Flour",
+      "name_nl": "Meel",
+      "quantity": "200g"
+    },
+    {
+      "name_en": "Sugar",
+      "name_nl": "Suiker",
+      "quantity": "200g"
+    },
+    {
+      "name_en": "Cocoa powder",
+      "name_nl": "Cacao poeder",
+      "quantity": "50g"
+    },
+    {
+      "name_en": "Baking powder",
+      "name_nl": "Bakpoeder",
+      "quantity": "2 tsp"
+    },
+    {
+      "name_en": "Eggs",
+      "name_nl": "Eieren",
+      "quantity": "2"
+    },
+    {
+      "name_en": "Milk",
+      "name_nl": "Melk",
+      "quantity": "200ml"
+    },
+    {
+      "name_en": "Vegetable oil",
+      "name_nl": "Groentenolie",
+      "quantity": "100ml"
+    },
+    {
+      "name_en": "Vanilla extract",
+      "name_nl": "Vanille-extract",
+      "quantity": "1 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Preheat oven",
+      "display_name_nl": "Oven voorverwarmen",
+      "action_en": "Preheat oven",
+      "action_nl": "Oven voorverwarmen",
+      "instructions_en": "Preheat the oven to 180°C.",
+      "instructions_nl": "Verwarm de oven voor op 180°C.",
+      "workplace": "Oven",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Grease pan",
+      "display_name_nl": "Bodem vetten",
+      "action_en": "Grease a round cake pan",
+      "action_nl": "Een ronde cakevorm vetten",
+      "instructions_en": "Grease a round cake pan.",
+      "instructions_nl": "Vet een ronde cakevorm in.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Mix dry ingredients",
+      "display_name_nl": "Droge ingrediënten mengen",
+      "action_en": "Mix flour, sugar, cocoa and baking powder in a bowl",
+      "action_nl": "Meel, suiker, cacao en bakpoeder mengen in een kom",
+      "instructions_en": "Mix flour, sugar, cocoa and baking powder in a bowl.",
+      "instructions_nl": "Meng meel, suiker, cacao en bakpoeder in een kom.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Mix wet ingredients",
+      "display_name_nl": "Vochtige ingrediënten mengen",
+      "action_en": "Whisk eggs, milk, oil and vanilla in another bowl",
+      "action_nl": "Eieren, melk, olie en vanille mengen in een andere kom",
+      "instructions_en": "Whisk eggs, milk, oil and vanilla in another bowl.",
+      "instructions_nl": "Meng eieren, melk, olie en vanille in een andere kom.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Combine wet and dry ingredients",
+      "display_name_nl": "Vochtige en droge ingrediënten mengen",
+      "action_en": "Pour wet ingredients into dry and mix until smooth",
+      "action_nl": "Vochtige ingrediënten in droge mengen en tot glad mengen",
+      "instructions_en": "Pour wet ingredients into dry and mix until smooth.",
+      "instructions_nl": "Vochtige ingrediënten in droge mengen en tot glad mengen.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Pour into pan",
+      "display_name_nl": "In pan gieten",
+      "action_en": "Pour into a greased round cake pan",
+      "action_nl": "In een ingevette ronde cakevorm gieten",
+      "instructions_en": "Pour into a greased round cake pan.",
+      "instructions_nl": "In een ingevette ronde cakevorm gieten.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Bake",
+      "display_name_nl": "Bakken",
+      "action_en": "Bake for 35 minutes",
+      "action_nl": "35 minuten bakken",
+      "instructions_en": "Bake for 35 minutes.",
+      "instructions_nl": "35 minuten bakken.",
+      "workplace": "Oven",
+      "has_timer": true,
+      "timer_minutes": 35.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Cool",
+      "display_name_nl": "Afkoelen",
+      "action_en": "Cool for 15 minutes",
+      "action_nl": "15 minuten afkoelen",
+      "instructions_en": "Cool for 15 minutes.",
+      "instructions_nl": "15 minuten afkoelen.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+recipe,difficulty,servings,steps,ingredients,has_timers,calories,status
+scrambled_eggs,Medium,2,7,5,4,140,✅ OK
+banana_bread,Medium,8,9,8,7,350,✅ OK
+tomato_soup,Easy,4,6,9,4,200,✅ OK
+pasta_bolognese,Intermediate,4,13,11,4,700,✅ OK
+vegetable_curry,Intermediate,4,13,11,5,450,✅ OK
+chocolate_cake,Medium,8,8,8,1,350,✅ OK
+greek_salad,Medium,4,7,9,0,350,✅ OK
+omelette,Medium,1,9,5,2,180,✅ OK
+lentil_soup,Medium,6,9,11,3,350,✅ OK
+pancakes,Medium,4,10,8,2,350,✅ OK

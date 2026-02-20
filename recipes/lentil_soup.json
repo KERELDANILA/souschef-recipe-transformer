@@ -1,0 +1,183 @@
+{
+  "generic_name_en": "Lentil Soup",
+  "generic_name_nl": "Linzensoep",
+  "recipe_name_en": "Quick and Easy Lentil Soup",
+  "recipe_name_nl": "Snelle en Eenvoudige Linzensoep",
+  "description_en": "This recipe is perfect for a weeknight dinner. It's easy to make and packed with nutrients. With SousChef's guidance, you'll be a pro in no time!",
+  "description_nl": "Dit recept is perfect voor een weekavond. Het is eenvoudig te maken en rijk aan voedingsstoffen. Met de hulp van SousChef word je een pro in geen tijd!",
+  "difficulty": "Medium",
+  "servings": 6,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 30,
+  "calories_per_person": 350,
+  "protein_g": 18.0,
+  "carbs_g": 60.0,
+  "fat_g": 10.0,
+  "ingredients": [
+    {
+      "name_en": "Red Lentils",
+      "name_nl": "Rode Linzen",
+      "quantity": "300g"
+    },
+    {
+      "name_en": "Onion",
+      "name_nl": "Ui",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Garlic",
+      "name_nl": "Knoflook",
+      "quantity": "3 cloves"
+    },
+    {
+      "name_en": "Carrot",
+      "name_nl": "Aardappel",
+      "quantity": "2 pieces"
+    },
+    {
+      "name_en": "Cumin",
+      "name_nl": "Komijn",
+      "quantity": "2 tsp"
+    },
+    {
+      "name_en": "Turmeric",
+      "name_nl": "Curry",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Vegetable Stock",
+      "name_nl": "Groentenbouillon",
+      "quantity": "1.5L"
+    },
+    {
+      "name_en": "Olive Oil",
+      "name_nl": "Olijfolie",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Salt",
+      "name_nl": "Zout",
+      "quantity": ""
+    },
+    {
+      "name_en": "Pepper",
+      "name_nl": "Peper",
+      "quantity": ""
+    },
+    {
+      "name_en": "Lemon Juice",
+      "name_nl": "Citroensap",
+      "quantity": ""
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Chop",
+      "action_nl": "Snijden",
+      "instructions_en": "Chop the onion into small pieces.",
+      "instructions_nl": "Snijd de ui in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Garlic and Carrot",
+      "display_name_nl": "Knoflook en Aardappel",
+      "action_en": "Chop",
+      "action_nl": "Snijden",
+      "instructions_en": "Chop the garlic and carrot into small pieces.",
+      "instructions_nl": "Snijd de knoflook en aardappel in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Pot",
+      "display_name_nl": "Pot",
+      "action_en": "Heat",
+      "action_nl": "Verwarmen",
+      "instructions_en": "Heat the olive oil in a pot over medium heat.",
+      "instructions_nl": "Verwarm de olijfolie in een pot over medium warmte.",
+      "workplace": "Stove",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Fry",
+      "action_nl": "Bakken",
+      "instructions_en": "Fry the onion for 5 minutes.",
+      "instructions_nl": "Bak de ui 5 minuten.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 5.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Garlic, Carrot, Cumin, and Turmeric",
+      "display_name_nl": "Knoflook, Aardappel, Komijn, en Curry",
+      "action_en": "Fry",
+      "action_nl": "Bakken",
+      "instructions_en": "Fry the garlic, carrot, cumin, and turmeric for 2 minutes.",
+      "instructions_nl": "Bak de knoflook, aardappel, komijn, en curry 2 minuten.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 2.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Lentils and Stock",
+      "display_name_nl": "Rode Linzen en Groentenbouillon",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the lentils and stock to the pot.",
+      "instructions_nl": "Voeg de rode linzen en groentenbouillon toe aan de pot.",
+      "workplace": "Stove",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Soup",
+      "display_name_nl": "Soep",
+      "action_en": "Simmer",
+      "action_nl": "Koken",
+      "instructions_en": "Simmer the soup for 25 minutes.",
+      "instructions_nl": "Kook de soep 25 minuten.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 25.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Soup",
+      "display_name_nl": "Soep",
+      "action_en": "Blend",
+      "action_nl": "Blenden",
+      "instructions_en": "Blend half of the soup for a creamy texture.",
+      "instructions_nl": "Blend half van de soep voor een crèmeachtige textuur.",
+      "workplace": "Blender",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Soup",
+      "display_name_nl": "Soep",
+      "action_en": "Season",
+      "action_nl": "Afwijken",
+      "instructions_en": "Season the soup with salt, pepper, and a squeeze of lemon.",
+      "instructions_nl": "Afwijk de soep met zout, peper, en een scheut citroensap.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}

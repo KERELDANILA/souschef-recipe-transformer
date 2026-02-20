@@ -1,0 +1,12 @@
+step_number,display_name_en,display_name_nl,action_en,action_nl,instructions_en,instructions_nl,workplace,has_timer,timer_minutes,is_first_appearance
+1,Spice Mix,Kruidenmix,Mix,Meng,"Mix salt, onion powder, garlic powder, paprika, thyme and pepper together.","Meng zeezout, ui poeder, knoflookpoeder, paprika, tijm en peper samen.",Bowl,False,,True
+2,Chicken,Kip,Rub,Aanbrengen,Rub the spice mix all over the chicken thighs.,Breng de kruidenmix aan op de kipfilets.,Cutting board,False,,True
+3,Pan,Pan,Heat,Verwarmen,Heat olive oil in a large pan over medium-high heat.,Verwarm olijfolie in een grote pan over medium-high warmte.,Pan,False,,True
+4,Chicken,Kip,Sear,Bruinen,Sear chicken thighs for 3-4 minutes each side until golden brown.,Bruin de kipfilets voor 3-4 minuten per kant tot goudbruin.,Pan,True,8.0,True
+5,Onion,Ui,Fry,Frituren,Fry the diced onion for 2 minutes until soft.,Frituur de ui in kleine stukjes voor 2 minuten tot zacht.,Pan,True,2.0,True
+6,Garlic,Knoflook,Fry,Frituren,Add minced garlic and fry for 1 minute.,Voeg knoflook toe en frituur voor 1 minuut.,Pan,True,1.0,True
+7,Rice,Rijst,Add,Toevoegen,Add rice and stir to coat in the oil.,Voeg rijst toe en roer om de olie te bedekken.,Pan,False,,True
+8,Liquid,Vloeistof,Add,Toevoegen,Pour in chicken stock and water. Stir well.,Giet kippenbouillon en water toe. Roer goed.,Pan,False,,True
+9,Chicken,Kip,Add,Toevoegen,Place chicken thighs on top of the rice.,Leg de kipfilets op de rijst.,Pan,False,,True
+10,Pan,Pan,Cover,Dekken,Cover and cook on low heat for 20 minutes until rice is cooked and liquid absorbed.,Dek af en kook op laag vuur voor 20 minuten tot de rijst gaar is en de vloeistof opgenomen.,Pan,True,20.0,False
+11,Garnish,Garnituur,Add,Toevoegen,Garnish with fresh thyme and serve.,Garnieer met verse tijm en serveer.,Bowl,False,,True

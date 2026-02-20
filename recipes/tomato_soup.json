@@ -1,0 +1,137 @@
+{
+  "generic_name_en": "Tomato Soup",
+  "generic_name_nl": "Tomaten Soep",
+  "recipe_name_en": "Quick Tomato Soup",
+  "recipe_name_nl": "Snelle Tomaten Soep",
+  "description_en": "Make a delicious and easy tomato soup in just 30 minutes. Follow our simple steps and enjoy a warm bowl of goodness. This recipe serves 4 people and takes approximately 30 minutes to prepare and cook.",
+  "description_nl": "Maak een heerlijke en eenvoudige tomatensoep in slechts 30 minuten. Volg onze eenvoudige stappen en geniet van een warme kom. Deze recepten dienen 4 personen en duren ongeveer 30 minuten om te bereiden en te bereiden.",
+  "difficulty": "Easy",
+  "servings": 4,
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 25,
+  "calories_per_person": 200,
+  "protein_g": 5.0,
+  "carbs_g": 30.0,
+  "fat_g": 10.0,
+  "ingredients": [
+    {
+      "name_en": "Canned Tomatoes",
+      "name_nl": "Geconserveerde Tomaten",
+      "quantity": "800g"
+    },
+    {
+      "name_en": "Onion",
+      "name_nl": "Ui",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Garlic",
+      "name_nl": "Knoflook",
+      "quantity": "3 cloves"
+    },
+    {
+      "name_en": "Olive Oil",
+      "name_nl": "Olijfolie",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Vegetable Stock",
+      "name_nl": "Groentenbouillon",
+      "quantity": "500ml"
+    },
+    {
+      "name_en": "Sugar",
+      "name_nl": "Suiker",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Salt",
+      "name_nl": "Zout",
+      "quantity": "0.5 tsp"
+    },
+    {
+      "name_en": "Pepper",
+      "name_nl": "Peper",
+      "quantity": "0.25 tsp"
+    },
+    {
+      "name_en": "Fresh Basil",
+      "name_nl": "Vers Basilicum",
+      "quantity": "a few leaves"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Olive Oil",
+      "display_name_nl": "Olijfolie",
+      "action_en": "Heat in a pot",
+      "action_nl": "Verwarm in een pot",
+      "instructions_en": "Heat the olive oil in a large pot over medium heat. Set a timer for 5 minutes.",
+      "instructions_nl": "Verwarm de olijfolie in een grote pot over medium hitte. Zet een timer voor 5 minuten.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 5.0,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Fry until soft",
+      "action_nl": "Frituur tot zacht",
+      "instructions_en": "Fry the onion for 5 minutes until soft.",
+      "instructions_nl": "Frituur de ui voor 5 minuten tot zacht.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 5.0,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Garlic",
+      "display_name_nl": "Knoflook",
+      "action_en": "Fry for 1 minute",
+      "action_nl": "Frituur voor 1 minuut",
+      "instructions_en": "Add the garlic and fry for 1 minute.",
+      "instructions_nl": "Voeg de knoflook toe en frituur voor 1 minuut.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 1.0,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Canned Tomatoes",
+      "display_name_nl": "Geconserveerde Tomaten",
+      "action_en": "Add and simmer",
+      "action_nl": "Voeg toe en laat sudderen",
+      "instructions_en": "Add the canned tomatoes, stock, sugar, salt, and pepper. Simmer for 20 minutes.",
+      "instructions_nl": "Voeg de geconserveerde tomaten, bouillon, suiker, zout en peper toe. Laat sudderen voor 20 minuten.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 20.0,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Olive Oil",
+      "display_name_nl": "Olijfolie",
+      "action_en": "Blend with an immersion blender",
+      "action_nl": "Blend met een staafmixer",
+      "instructions_en": "Blend the soup until smooth with an immersion blender.",
+      "instructions_nl": "Blend de soep tot glad met een staafmixer.",
+      "workplace": "Blender",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Fresh Basil",
+      "display_name_nl": "Vers Basilicum",
+      "action_en": "Serve",
+      "action_nl": "Serveer",
+      "instructions_en": "Serve the soup hot, garnished with fresh basil.",
+      "instructions_nl": "Serveer de soep warm, geglansd met vers basilicum.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "generic_name_en": "Chicken Rice",
+  "generic_name_nl": "Kip Rijst",
+  "recipe_name_en": "One-pan Chicken and Garlic Rice",
+  "recipe_name_nl": "Kip met knoflookrijst in één pan",
+  "description_en": "This recipe is easy to make and tastes great. SousChef will guide you through the steps.",
+  "description_nl": "Dit recept is makkelijk te maken en smaakt goed. SousChef begeleidt je door de stappen.",
+  "difficulty": "Easy",
+  "servings": 4,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "calories_per_person": 550,
+  "protein_g": 35.0,
+  "carbs_g": 45.0,
+  "fat_g": 18.0,
+  "ingredients": [
+    {
+      "name_en": "Onion",
+      "name_nl": "Ui",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Garlic",
+      "name_nl": "Knoflook",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Jasmine Rice",
+      "name_nl": "Jasmijnrijst",
+      "quantity": "1 cup"
+    },
+    {
+      "name_en": "Chicken Stock",
+      "name_nl": "Kippenbouillon",
+      "quantity": "1 1/2 cups"
+    },
+    {
+      "name_en": "Water",
+      "name_nl": "Water",
+      "quantity": "1/4 cup"
+    },
+    {
+      "name_en": "Olive Oil",
+      "name_nl": "Olijfolie",
+      "quantity": "1/4 cup"
+    },
+    {
+      "name_en": "Boneless Chicken Thighs",
+      "name_nl": "Kipfilets",
+      "quantity": "5 pieces"
+    },
+    {
+      "name_en": "Sea Salt",
+      "name_nl": "Zeezout",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Onion Powder",
+      "name_nl": "Ui poeder",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Garlic Powder",
+      "name_nl": "Knoflookpoeder",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Paprika",
+      "name_nl": "Paprika",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Thyme",
+      "name_nl": "Tijm",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Black Pepper",
+      "name_nl": "Peper",
+      "quantity": "1/2 tsp"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Spice Mix",
+      "display_name_nl": "Kruidenmix",
+      "action_en": "Mix",
+      "action_nl": "Meng",
+      "instructions_en": "Mix salt, onion powder, garlic powder, paprika, thyme and pepper together.",
+      "instructions_nl": "Meng zeezout, ui poeder, knoflookpoeder, paprika, tijm en peper samen.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Chicken",
+      "display_name_nl": "Kip",
+      "action_en": "Rub",
+      "action_nl": "Aanbrengen",
+      "instructions_en": "Rub the spice mix all over the chicken thighs.",
+      "instructions_nl": "Breng de kruidenmix aan op de kipfilets.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Pan",
+      "display_name_nl": "Pan",
+      "action_en": "Heat",
+      "action_nl": "Verwarmen",
+      "instructions_en": "Heat olive oil in a large pan over medium-high heat.",
+      "instructions_nl": "Verwarm olijfolie in een grote pan over medium-high warmte.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Chicken",
+      "display_name_nl": "Kip",
+      "action_en": "Sear",
+      "action_nl": "Bruinen",
+      "instructions_en": "Sear chicken thighs for 3-4 minutes each side until golden brown.",
+      "instructions_nl": "Bruin de kipfilets voor 3-4 minuten per kant tot goudbruin.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 8.0,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Fry",
+      "action_nl": "Frituren",
+      "instructions_en": "Fry the diced onion for 2 minutes until soft.",
+      "instructions_nl": "Frituur de ui in kleine stukjes voor 2 minuten tot zacht.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 2.0,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Garlic",
+      "display_name_nl": "Knoflook",
+      "action_en": "Fry",
+      "action_nl": "Frituren",
+      "instructions_en": "Add minced garlic and fry for 1 minute.",
+      "instructions_nl": "Voeg knoflook toe en frituur voor 1 minuut.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 1.0,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Rice",
+      "display_name_nl": "Rijst",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add rice and stir to coat in the oil.",
+      "instructions_nl": "Voeg rijst toe en roer om de olie te bedekken.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Liquid",
+      "display_name_nl": "Vloeistof",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Pour in chicken stock and water. Stir well.",
+      "instructions_nl": "Giet kippenbouillon en water toe. Roer goed.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Chicken",
+      "display_name_nl": "Kip",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Place chicken thighs on top of the rice.",
+      "instructions_nl": "Leg de kipfilets op de rijst.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Pan",
+      "display_name_nl": "Pan",
+      "action_en": "Cover",
+      "action_nl": "Dekken",
+      "instructions_en": "Cover and cook on low heat for 20 minutes until rice is cooked and liquid absorbed.",
+      "instructions_nl": "Dek af en kook op laag vuur voor 20 minuten tot de rijst gaar is en de vloeistof opgenomen.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 20.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Garnish",
+      "display_name_nl": "Garnituur",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Garnish with fresh thyme and serve.",
+      "instructions_nl": "Garnieer met verse tijm en serveer.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    }
+  ]
+}

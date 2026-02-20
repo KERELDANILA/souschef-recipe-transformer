@@ -1,0 +1,231 @@
+{
+  "generic_name_en": "Spaghetti Bolognese",
+  "generic_name_nl": "Spaghetti Bolognese",
+  "recipe_name_en": "One-pan Spaghetti Bolognese",
+  "recipe_name_nl": "Spaghetti Bolognese in één pan",
+  "description_en": "Make a delicious Spaghetti Bolognese in just 45 minutes. This recipe is easy to follow and perfect for beginners. SousChef guides you through each step to ensure a perfect dish.",
+  "description_nl": "Maak een heerlijke Spaghetti Bolognese in slechts 45 minuten. Deze recept is eenvoudig te volgen en ideaal voor beginners. SousChef begeleidt je door elke stap om een perfecte maaltijd te bereiken.",
+  "difficulty": "Intermediate",
+  "servings": 4,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 35,
+  "calories_per_person": 700,
+  "protein_g": 50.0,
+  "carbs_g": 60.0,
+  "fat_g": 30.0,
+  "ingredients": [
+    {
+      "name_en": "Spaghetti",
+      "name_nl": "Spaghetti",
+      "quantity": "400g"
+    },
+    {
+      "name_en": "Minced beef",
+      "name_nl": "Gebakken vlees",
+      "quantity": "500g"
+    },
+    {
+      "name_en": "Onion",
+      "name_nl": "Ui",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Garlic",
+      "name_nl": "Teentjes",
+      "quantity": "2 cloves"
+    },
+    {
+      "name_en": "Canned tomatoes",
+      "name_nl": "Geconserveerde tomaten",
+      "quantity": "400g"
+    },
+    {
+      "name_en": "Tomato paste",
+      "name_nl": "Tomatenpuree",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Oregano",
+      "name_nl": "Oregano",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Olive oil",
+      "name_nl": "Olijfolie",
+      "quantity": "1 unit"
+    },
+    {
+      "name_en": "Salt",
+      "name_nl": "Zout",
+      "quantity": "1 unit"
+    },
+    {
+      "name_en": "Pepper",
+      "name_nl": "Peper",
+      "quantity": "1 unit"
+    },
+    {
+      "name_en": "Parmesan",
+      "name_nl": "Parmezaan",
+      "quantity": "1 unit"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Spaghetti",
+      "display_name_nl": "Spaghetti",
+      "action_en": "Cook",
+      "action_nl": "Koken",
+      "instructions_en": "Cook the spaghetti according to the package instructions.",
+      "instructions_nl": "Kook de spaghetti volgens de aanwijzingen op de verpakking.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 8.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Peel and chop",
+      "action_nl": "Schillen en snijden",
+      "instructions_en": "Peel the onion and chop it into small pieces.",
+      "instructions_nl": "Schil de ui en snijd hem in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Garlic",
+      "display_name_nl": "Teentjes",
+      "action_en": "Peel and chop",
+      "action_nl": "Schillen en snijden",
+      "instructions_en": "Peel the garlic and chop it into small pieces.",
+      "instructions_nl": "Schil de teentjes en snijd hem in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Olive oil",
+      "display_name_nl": "Olijfolie",
+      "action_en": "Heat",
+      "action_nl": "Verwarmen",
+      "instructions_en": "Heat the olive oil in a pan.",
+      "instructions_nl": "Verwarm de olijfolie in een pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Fry",
+      "action_nl": "Bruinen",
+      "instructions_en": "Fry the onion in the pan for 3 minutes.",
+      "instructions_nl": "Bruin de ui in de pan voor 3 minuten.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 3.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Garlic",
+      "display_name_nl": "Teentjes",
+      "action_en": "Fry",
+      "action_nl": "Bruinen",
+      "instructions_en": "Fry the garlic in the pan for 1 minute.",
+      "instructions_nl": "Bruin de teentjes in de pan voor 1 minuut.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 1.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Minced beef",
+      "display_name_nl": "Gebakken vlees",
+      "action_en": "Cook",
+      "action_nl": "Koken",
+      "instructions_en": "Cook the minced beef in the pan for 5 minutes until browned.",
+      "instructions_nl": "Kook het gebakken vlees in de pan voor 5 minuten tot het bruin is.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 5.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Tomato paste",
+      "display_name_nl": "Tomatenpuree",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the tomato paste to the pan.",
+      "instructions_nl": "Voeg de tomatenpuree toe aan de pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Canned tomatoes",
+      "display_name_nl": "Geconserveerde tomaten",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the canned tomatoes to the pan.",
+      "instructions_nl": "Voeg de geconserveerde tomaten toe aan de pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Oregano",
+      "display_name_nl": "Oregano",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the oregano to the pan.",
+      "instructions_nl": "Voeg de oregano toe aan de pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Salt",
+      "display_name_nl": "Zout",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add salt to the pan.",
+      "instructions_nl": "Voeg zout toe aan de pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Pepper",
+      "display_name_nl": "Peper",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add pepper to the pan.",
+      "instructions_nl": "Voeg peper toe aan de pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Spaghetti",
+      "display_name_nl": "Spaghetti",
+      "action_en": "Drain",
+      "action_nl": "Giet af",
+      "instructions_en": "Drain the spaghetti.",
+      "instructions_nl": "Giet de spaghetti af.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}

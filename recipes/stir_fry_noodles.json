@@ -1,0 +1,154 @@
+{
+  "generic_name_en": "Stir Fry",
+  "generic_name_nl": "Stir Fry",
+  "recipe_name_en": "Stir Fry Noodles",
+  "recipe_name_nl": "Stir Fry Noodles",
+  "description_en": "A quick and easy stir fry recipe for beginners. Follow our step-by-step guide to make a delicious meal in no time.",
+  "description_nl": "Een snelle en gemakkelijke Stir Fry recept voor beginners. Volg onze stap-voor-stap gids om een heerlijke maaltijd te maken in no time.",
+  "difficulty": "Easy",
+  "servings": 2,
+  "prep_time_minutes": 5,
+  "cook_time_minutes": 15,
+  "calories_per_person": 400,
+  "protein_g": 20.0,
+  "carbs_g": 40.0,
+  "fat_g": 15.0,
+  "ingredients": [
+    {
+      "name_en": "Egg Noodles",
+      "name_nl": "Ei Noodles",
+      "quantity": "200g"
+    },
+    {
+      "name_en": "Soy Sauce",
+      "name_nl": "Sous",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Sesame Oil",
+      "name_nl": "Zonnebloemolie",
+      "quantity": "1 tbsp"
+    },
+    {
+      "name_en": "Garlic",
+      "name_nl": "Knoflook",
+      "quantity": "2 cloves"
+    },
+    {
+      "name_en": "Ginger",
+      "name_nl": "Gember",
+      "quantity": "1 tsp"
+    },
+    {
+      "name_en": "Red Pepper",
+      "name_nl": "Rode Paprika",
+      "quantity": "1"
+    },
+    {
+      "name_en": "Broccoli",
+      "name_nl": "Broccoliroos",
+      "quantity": "100g"
+    },
+    {
+      "name_en": "Eggs",
+      "name_nl": "Eieren",
+      "quantity": "2"
+    },
+    {
+      "name_en": "Vegetable Oil",
+      "name_nl": "Groentenolie",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Spring Onions",
+      "name_nl": "Snijbonen",
+      "quantity": "spring onions"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Cook Noodles",
+      "display_name_nl": "Kook Noodles",
+      "action_en": "Cook",
+      "action_nl": "Koken",
+      "instructions_en": "Cook the egg noodles according to the package instructions.",
+      "instructions_nl": "Kook de ei noodles volgens de aanwijzingen op de verpakking.",
+      "workplace": "Stove",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Heat Oil",
+      "display_name_nl": "Verhit Olie",
+      "action_en": "Heat",
+      "action_nl": "Verhitten",
+      "instructions_en": "Heat the vegetable oil in a wok over high heat.",
+      "instructions_nl": "Verhit de groentenolie in een wok over hoog vuur.",
+      "workplace": "Stove",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Fry Garlic and Ginger",
+      "display_name_nl": "Frituur Knoflook en Gember",
+      "action_en": "Fry",
+      "action_nl": "Frituren",
+      "instructions_en": "Fry the garlic and ginger for 30 seconds.",
+      "instructions_nl": "Frituur de knoflook en gember voor 30 seconden.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 30.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Add Red Pepper and Broccoli",
+      "display_name_nl": "Voeg Rode Paprika en Broccoliroos toe",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the red pepper and broccoli. Stir fry for 3 minutes.",
+      "instructions_nl": "Voeg de rode paprika en broccoliroos toe. Frituur voor 3 minuten.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 180.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Scramble Eggs",
+      "display_name_nl": "Spaten Eieren",
+      "action_en": "Scramble",
+      "action_nl": "Spaten",
+      "instructions_en": "Push the vegetables aside. Scramble the eggs in the wok.",
+      "instructions_nl": "Duw de groenten opzij. Spaten de eieren in de wok.",
+      "workplace": "Stove",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Add Noodles and Sauce",
+      "display_name_nl": "Voeg Noodles en Saus toe",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the noodles, soy sauce, and sesame oil. Toss everything together.",
+      "instructions_nl": "Voeg de noodles, sous, en zonnebloemolie toe. Roer alles goed door.",
+      "workplace": "Stove",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Garnish with Spring Onions",
+      "display_name_nl": "Garneer met Snijbonen",
+      "action_en": "Garnish",
+      "action_nl": "Garneren",
+      "instructions_en": "Garnish with spring onions and serve.",
+      "instructions_nl": "Garneer met snijbonen en serveer.",
+      "workplace": "Stove",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}

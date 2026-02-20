@@ -1,0 +1,180 @@
+{
+  "generic_name_en": "Pancakes",
+  "generic_name_nl": "Pannenkoeken",
+  "recipe_name_en": "Classic Pancakes",
+  "recipe_name_nl": "Klassieke Pannenkoeken",
+  "description_en": "Make delicious pancakes with this easy recipe. Follow the steps and tips to get perfect pancakes every time.",
+  "description_nl": "Maak heerlijke pannenkoeken met dit eenvoudige recept. Volg de stappen en tips om perfecte pannenkoeken te krijgen elke keer.",
+  "difficulty": "Medium",
+  "servings": 4,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 20,
+  "calories_per_person": 350,
+  "protein_g": 10.0,
+  "carbs_g": 40.0,
+  "fat_g": 15.0,
+  "ingredients": [
+    {
+      "name_en": "Flour",
+      "name_nl": "Meel",
+      "quantity": "200g"
+    },
+    {
+      "name_en": "Baking powder",
+      "name_nl": "Bakpoeder",
+      "quantity": "2 tsp"
+    },
+    {
+      "name_en": "Sugar",
+      "name_nl": "Suiker",
+      "quantity": "1 tbsp"
+    },
+    {
+      "name_en": "Salt",
+      "name_nl": "Zout",
+      "quantity": "pinch"
+    },
+    {
+      "name_en": "Eggs",
+      "name_nl": "Eieren",
+      "quantity": "2"
+    },
+    {
+      "name_en": "Milk",
+      "name_nl": "Melk",
+      "quantity": "250ml"
+    },
+    {
+      "name_en": "Melted butter",
+      "name_nl": "Gesmolten boter",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Butter for frying",
+      "name_nl": "Boter voor frituren",
+      "quantity": "knob"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Mix dry ingredients",
+      "display_name_nl": "Meng droge ingrediënten",
+      "action_en": "Mix",
+      "action_nl": "Mengen",
+      "instructions_en": "Combine flour, baking powder, sugar and salt in a bowl.",
+      "instructions_nl": "Meng meel, bakpoeder, suiker en zout in een kom.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Whisk wet ingredients",
+      "display_name_nl": "Kloppen vochtige ingrediënten",
+      "action_en": "Whisk",
+      "action_nl": "Kloppen",
+      "instructions_en": "Whisk eggs, milk and melted butter in another bowl.",
+      "instructions_nl": "Klopp eieren, melk en gesmolten boter in een andere kom.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Combine wet and dry ingredients",
+      "display_name_nl": "Meng vochtige en droge ingrediënten",
+      "action_en": "Mix",
+      "action_nl": "Mengen",
+      "instructions_en": "Pour wet ingredients into dry and mix until just combined.",
+      "instructions_nl": "Giet vochtige ingrediënten in droge en meng tot net mengen.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Heat pan",
+      "display_name_nl": "Verhit pan",
+      "action_en": "Heat",
+      "action_nl": "Verhitten",
+      "instructions_en": "Heat a pan over medium heat.",
+      "instructions_nl": "Verhit een pan op middelmatig vuur.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Add butter",
+      "display_name_nl": "Voeg boter toe",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add a small knob of butter to the pan.",
+      "instructions_nl": "Voeg een kleine klont boter toe aan de pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Pour batter",
+      "display_name_nl": "Giet deeg",
+      "action_en": "Pour",
+      "action_nl": "Gieten",
+      "instructions_en": "Pour a ladleful of batter into the pan.",
+      "instructions_nl": "Giet een lepel deeg in de pan.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Cook 2 minutes",
+      "display_name_nl": "Kook 2 minuten",
+      "action_en": "Cook",
+      "action_nl": "Koken",
+      "instructions_en": "Cook for 2 minutes until bubbles form.",
+      "instructions_nl": "Kook 2 minuten tot bubbels ontstaan.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 2.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Flip and cook 1 minute",
+      "display_name_nl": "Omdraaien en koken 1 minuut",
+      "action_en": "Flip",
+      "action_nl": "Omdraaien",
+      "instructions_en": "Flip and cook for 1 more minute.",
+      "instructions_nl": "Omdraai en kook 1 minuut langer.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 1.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Repeat with remaining batter",
+      "display_name_nl": "Herhaal met overgebleven deeg",
+      "action_en": "Repeat",
+      "action_nl": "Herhalen",
+      "instructions_en": "Repeat with remaining batter.",
+      "instructions_nl": "Herhaal met overgebleven deeg.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Serve",
+      "display_name_nl": "Serveer",
+      "action_en": "Serve",
+      "action_nl": "Serveeren",
+      "instructions_en": "Serve with syrup or fruit.",
+      "instructions_nl": "Serveer met siroop of fruit.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}

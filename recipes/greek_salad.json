@@ -1,0 +1,149 @@
+{
+  "generic_name_en": "Greek Salad",
+  "generic_name_nl": "Griekse Salade",
+  "recipe_name_en": "Greek Salad",
+  "recipe_name_nl": "Griekse Salade",
+  "description_en": "A simple and delicious salad from Greece. Follow these easy steps to create your own Greek Salad.",
+  "description_nl": "Een eenvoudige en smaakvolle salade uit Griekenland. Volg deze gemakkelijke stappen om je eigen Griekse Salade te maken.",
+  "difficulty": "Medium",
+  "servings": 4,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 0,
+  "calories_per_person": 350,
+  "protein_g": 15.0,
+  "carbs_g": 20.0,
+  "fat_g": 25.0,
+  "ingredients": [
+    {
+      "name_en": "Tomatoes",
+      "name_nl": "Tomaten",
+      "quantity": "4 pieces"
+    },
+    {
+      "name_en": "Cucumber",
+      "name_nl": "Komkommer",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Red Onion",
+      "name_nl": "Rode ui",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Feta Cheese",
+      "name_nl": "Feta kaas",
+      "quantity": "200g"
+    },
+    {
+      "name_en": "Olives",
+      "name_nl": "Olijven",
+      "quantity": "100g"
+    },
+    {
+      "name_en": "Olive Oil",
+      "name_nl": "Olijfolie",
+      "quantity": "3 tbsp"
+    },
+    {
+      "name_en": "Oregano",
+      "name_nl": "Oregano",
+      "quantity": "1 tbsp"
+    },
+    {
+      "name_en": "Salt",
+      "name_nl": "Zout",
+      "quantity": "null"
+    },
+    {
+      "name_en": "Pepper",
+      "name_nl": "Peper",
+      "quantity": "null"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Tomatoes",
+      "display_name_nl": "Tomaten",
+      "action_en": "Cut",
+      "action_nl": "Snijden",
+      "instructions_en": "Cut the tomatoes into chunks.",
+      "instructions_nl": "Snijd de tomaten in stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Cucumber",
+      "display_name_nl": "Komkommer",
+      "action_en": "Slice",
+      "action_nl": "Scheuren",
+      "instructions_en": "Slice the cucumber into half-moons.",
+      "instructions_nl": "Scheur de komkommer in halve maanvormen.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Red Onion",
+      "display_name_nl": "Rode ui",
+      "action_en": "Thinly slice",
+      "action_nl": "Dun snijden",
+      "instructions_en": "Thinly slice the red onion.",
+      "instructions_nl": "Dun snijd de rode ui.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Tomatoes, Cucumber, Onion",
+      "display_name_nl": "Tomaten, komkommer, ui",
+      "action_en": "Combine",
+      "action_nl": "Samenvoegen",
+      "instructions_en": "Combine the tomatoes, cucumber, and onion in a bowl.",
+      "instructions_nl": "Samenvoeg de tomaten, komkommer en ui in een kom.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Olives, Feta Cheese",
+      "display_name_nl": "Olijven, feta kaas",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the olives and crumble the feta cheese on top.",
+      "instructions_nl": "Voeg de olijven en krab de feta kaas op.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Olive Oil, Oregano, Salt, Pepper",
+      "display_name_nl": "Olijfolie, oregano, zout, peper",
+      "action_en": "Drizzle and season",
+      "action_nl": "Gieten en kruiden",
+      "instructions_en": "Drizzle with olive oil and season with oregano, salt, and pepper.",
+      "instructions_nl": "Giet olijfolie over en kruid met oregano, zout en peper.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Greek Salad",
+      "display_name_nl": "Griekse Salade",
+      "action_en": "Serve",
+      "action_nl": "Serveren",
+      "instructions_en": "Serve immediately.",
+      "instructions_nl": "Serveer direct.",
+      "workplace": "Bowl",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}

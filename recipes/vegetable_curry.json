@@ -1,0 +1,231 @@
+{
+  "generic_name_en": "Vegetable Curry",
+  "generic_name_nl": "Groentencurry",
+  "recipe_name_en": "Vegetable Curry",
+  "recipe_name_nl": "Groentencurry",
+  "description_en": "This vegetable curry is easy to make and delicious to eat. SousChef will guide you through the steps.",
+  "description_nl": "Dit groentencurry is makkelijk te maken en smaakt heerlijk. SousChef helpt je door de stappen heen.",
+  "difficulty": "Intermediate",
+  "servings": 4,
+  "prep_time_minutes": 10,
+  "cook_time_minutes": 25,
+  "calories_per_person": 450,
+  "protein_g": 15.0,
+  "carbs_g": 40.0,
+  "fat_g": 20.0,
+  "ingredients": [
+    {
+      "name_en": "Coconut milk",
+      "name_nl": "Kokosmelk",
+      "quantity": "400ml"
+    },
+    {
+      "name_en": "Canned chickpeas",
+      "name_nl": "Gerechtigde kikkererwten",
+      "quantity": "400g"
+    },
+    {
+      "name_en": "Onion",
+      "name_nl": "Ui",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Garlic",
+      "name_nl": "Teentje",
+      "quantity": "2 cloves"
+    },
+    {
+      "name_en": "Ginger",
+      "name_nl": "Gember",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Curry powder",
+      "name_nl": "Kurkuma poeder",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Red pepper",
+      "name_nl": "Rode paprika",
+      "quantity": "1 piece"
+    },
+    {
+      "name_en": "Spinach",
+      "name_nl": "Spinazie",
+      "quantity": "200g"
+    },
+    {
+      "name_en": "Oil",
+      "name_nl": "Olie",
+      "quantity": "2 tbsp"
+    },
+    {
+      "name_en": "Salt",
+      "name_nl": "Zout",
+      "quantity": "to taste"
+    },
+    {
+      "name_en": "Rice",
+      "name_nl": "Rijst",
+      "quantity": "to serve"
+    }
+  ],
+  "steps": [
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Chop",
+      "action_nl": "Snijden",
+      "instructions_en": "Chop the onion into small pieces.",
+      "instructions_nl": "Snijd de ui in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Garlic",
+      "display_name_nl": "Teentje",
+      "action_en": "Chop",
+      "action_nl": "Snijden",
+      "instructions_en": "Chop the garlic into small pieces.",
+      "instructions_nl": "Snijd het teentje in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Ginger",
+      "display_name_nl": "Gember",
+      "action_en": "Chop",
+      "action_nl": "Snijden",
+      "instructions_en": "Chop the ginger into small pieces.",
+      "instructions_nl": "Snijd de gember in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Red pepper",
+      "display_name_nl": "Rode paprika",
+      "action_en": "Chop",
+      "action_nl": "Snijden",
+      "instructions_en": "Chop the red pepper into small pieces.",
+      "instructions_nl": "Snijd de rode paprika in kleine stukjes.",
+      "workplace": "Cutting board",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": true
+    },
+    {
+      "display_name_en": "Oil",
+      "display_name_nl": "Olie",
+      "action_en": "Heat in pan",
+      "action_nl": "Verwarm in pan",
+      "instructions_en": "Heat the oil in a pan over medium heat.",
+      "instructions_nl": "Verwarm de olie in een pan over medium warmte.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Onion",
+      "display_name_nl": "Ui",
+      "action_en": "Fry",
+      "action_nl": "Bakken",
+      "instructions_en": "Fry the onion for 3 minutes.",
+      "instructions_nl": "Bak de ui 3 minuten.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 3.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Garlic",
+      "display_name_nl": "Teentje",
+      "action_en": "Add and fry",
+      "action_nl": "Toevoegen en bakken",
+      "instructions_en": "Add the garlic and fry for 1 minute.",
+      "instructions_nl": "Voeg het teentje toe en bak 1 minuut.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 1.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Ginger",
+      "display_name_nl": "Gember",
+      "action_en": "Add and fry",
+      "action_nl": "Toevoegen en bakken",
+      "instructions_en": "Add the ginger and fry for 1 minute.",
+      "instructions_nl": "Voeg de gember toe en bak 1 minuut.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 1.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Curry powder",
+      "display_name_nl": "Kurkuma poeder",
+      "action_en": "Add and stir",
+      "action_nl": "Toevoegen en roeren",
+      "instructions_en": "Add the curry powder and stir for 30 seconds.",
+      "instructions_nl": "Voeg de kurkuma poeder toe en roer 30 seconden.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 0.5,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Red pepper",
+      "display_name_nl": "Rode paprika",
+      "action_en": "Add and stir",
+      "action_nl": "Toevoegen en roeren",
+      "instructions_en": "Add the red pepper and stir well.",
+      "instructions_nl": "Voeg de rode paprika toe en roer goed.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Canned chickpeas",
+      "display_name_nl": "Gerechtigde kikkererwten",
+      "action_en": "Add and stir",
+      "action_nl": "Toevoegen en roeren",
+      "instructions_en": "Add the chickpeas and stir well.",
+      "instructions_nl": "Voeg de kikkererwten toe en roer goed.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Coconut milk",
+      "display_name_nl": "Kokosmelk",
+      "action_en": "Pour in",
+      "action_nl": "Giet in",
+      "instructions_en": "Pour in the coconut milk.",
+      "instructions_nl": "Giet de kokosmelk in.",
+      "workplace": "Pan",
+      "has_timer": true,
+      "timer_minutes": 15.0,
+      "is_first_appearance": false
+    },
+    {
+      "display_name_en": "Spinach",
+      "display_name_nl": "Spinazie",
+      "action_en": "Add and stir",
+      "action_nl": "Toevoegen en roeren",
+      "instructions_en": "Add the spinach and stir until wilted.",
+      "instructions_nl": "Voeg de spinazie toe en roer tot ze slap zijn.",
+      "workplace": "Pan",
+      "has_timer": false,
+      "timer_minutes": null,
+      "is_first_appearance": false
+    }
+  ]
+}
