@@ -1,11 +1,11 @@
 {
-  "generic_name_en": "Chicken Rice",
-  "generic_name_nl": "Kip Rijst",
+  "generic_name_en": "Chicken and Rice",
+  "generic_name_nl": "Kip en Rijst",
   "recipe_name_en": "One-pan Chicken and Garlic Rice",
   "recipe_name_nl": "Kip met knoflookrijst in één pan",
-  "description_en": "This recipe is easy to make and tastes great. SousChef will guide you through the steps.",
-  "description_nl": "Dit recept is makkelijk te maken en smaakt goed. SousChef begeleidt je door de stappen.",
-  "difficulty": "Easy",
+  "description_en": "Cooking a delicious one-pan chicken and garlic rice is easy and quick. With SousChef, you'll be guided through each step to ensure a perfect dish every time.",
+  "description_nl": "Koken van een lekker één-pan kip met knoflookrijst is gemakkelijk en snel. Met SousChef zul je worden begeleid door elk stap om een perfecte maaltijd te bereiken.",
+  "difficulty": "Medium",
   "servings": 4,
   "prep_time_minutes": 10,
   "cook_time_minutes": 25,
@@ -22,12 +22,22 @@
     {
       "name_en": "Garlic",
       "name_nl": "Knoflook",
-      "quantity": "1 piece"
+      "quantity": "1 tsp"
     },
     {
       "name_en": "Jasmine Rice",
       "name_nl": "Jasmijnrijst",
       "quantity": "1 cup"
+    },
+    {
+      "name_en": "Chicken Thighs",
+      "name_nl": "Kipfilets",
+      "quantity": "5 pieces"
+    },
+    {
+      "name_en": "Olive Oil",
+      "name_nl": "Olijfolie",
+      "quantity": "1/4 cup"
     },
     {
       "name_en": "Chicken Stock",
@@ -38,16 +48,6 @@
       "name_en": "Water",
       "name_nl": "Water",
       "quantity": "1/4 cup"
-    },
-    {
-      "name_en": "Olive Oil",
-      "name_nl": "Olijfolie",
-      "quantity": "1/4 cup"
-    },
-    {
-      "name_en": "Boneless Chicken Thighs",
-      "name_nl": "Kipfilets",
-      "quantity": "5 pieces"
     },
     {
       "name_en": "Sea Salt",
@@ -65,153 +65,134 @@
       "quantity": "1 tsp"
     },
     {
-      "name_en": "Paprika",
-      "name_nl": "Paprika",
+      "name_en": "Sweet Paprika",
+      "name_nl": "Zuurzure paprika",
       "quantity": "1 tsp"
     },
     {
-      "name_en": "Thyme",
-      "name_nl": "Tijm",
+      "name_en": "Dried Thyme",
+      "name_nl": "Droge tijm",
       "quantity": "1 tsp"
     },
     {
       "name_en": "Black Pepper",
-      "name_nl": "Peper",
+      "name_nl": "Zwarte peper",
       "quantity": "1/2 tsp"
+    },
+    {
+      "name_en": "Fresh Thyme",
+      "name_nl": "Verse tijm",
+      "quantity": "sprigs"
     }
   ],
   "steps": [
     {
-      "display_name_en": "Spice Mix",
-      "display_name_nl": "Kruidenmix",
+      "display_name_en": "Mix Spice Mix",
+      "display_name_nl": "Meng kruidenmix",
       "action_en": "Mix",
-      "action_nl": "Meng",
-      "instructions_en": "Mix salt, onion powder, garlic powder, paprika, thyme and pepper together.",
-      "instructions_nl": "Meng zeezout, ui poeder, knoflookpoeder, paprika, tijm en peper samen.",
+      "action_nl": "Mengen",
+      "instructions_en": "Mix salt, onion powder, garlic powder, paprika, thyme, and pepper together in a bowl.",
+      "instructions_nl": "Meng zeezout, ui poeder, knoflookpoeder, paprika, tijm en peper samen in een kom.",
       "workplace": "Bowl",
       "has_timer": false,
       "timer_minutes": null,
       "is_first_appearance": true
     },
     {
-      "display_name_en": "Chicken",
-      "display_name_nl": "Kip",
+      "display_name_en": "Rub Chicken Thighs",
+      "display_name_nl": "Rub kipfilets",
       "action_en": "Rub",
-      "action_nl": "Aanbrengen",
+      "action_nl": "Rubben",
       "instructions_en": "Rub the spice mix all over the chicken thighs.",
-      "instructions_nl": "Breng de kruidenmix aan op de kipfilets.",
+      "instructions_nl": "Rub de kruidenmix over de kipfilets.",
       "workplace": "Cutting board",
       "has_timer": false,
       "timer_minutes": null,
-      "is_first_appearance": true
+      "is_first_appearance": false
     },
     {
-      "display_name_en": "Pan",
-      "display_name_nl": "Pan",
+      "display_name_en": "Heat Olive Oil",
+      "display_name_nl": "Verhit olijfolie",
       "action_en": "Heat",
-      "action_nl": "Verwarmen",
-      "instructions_en": "Heat olive oil in a large pan over medium-high heat.",
-      "instructions_nl": "Verwarm olijfolie in een grote pan over medium-high warmte.",
+      "action_nl": "Verhitten",
+      "instructions_en": "Heat olive oil in a large pan over medium-high heat (around 400°F/200°C).",
+      "instructions_nl": "Verhit olijfolie in een grote pan over medium-high hitte (omgerekend 200°C).",
       "workplace": "Pan",
       "has_timer": false,
       "timer_minutes": null,
       "is_first_appearance": true
     },
     {
-      "display_name_en": "Chicken",
-      "display_name_nl": "Kip",
+      "display_name_en": "Sear Chicken Thighs",
+      "display_name_nl": "Bak kipfilets",
       "action_en": "Sear",
-      "action_nl": "Bruinen",
-      "instructions_en": "Sear chicken thighs for 3-4 minutes each side until golden brown.",
-      "instructions_nl": "Bruin de kipfilets voor 3-4 minuten per kant tot goudbruin.",
+      "action_nl": "Bakken",
+      "instructions_en": "Sear chicken thighs for 3-4 minutes each side until golden brown. Remove and set aside.",
+      "instructions_nl": "Bak kipfilets voor 3-4 minuten aan elke kant tot goudbruin. Haal uit de pan en zet apart.",
       "workplace": "Pan",
       "has_timer": true,
-      "timer_minutes": 8.0,
-      "is_first_appearance": true
+      "timer_minutes": 6.0,
+      "is_first_appearance": false
     },
     {
-      "display_name_en": "Onion",
-      "display_name_nl": "Ui",
+      "display_name_en": "Fry Onion",
+      "display_name_nl": "Bak ui",
       "action_en": "Fry",
-      "action_nl": "Frituren",
+      "action_nl": "Bakken",
       "instructions_en": "Fry the diced onion for 2 minutes until soft.",
-      "instructions_nl": "Frituur de ui in kleine stukjes voor 2 minuten tot zacht.",
+      "instructions_nl": "Bak de ui in kleine stukjes voor 2 minuten tot zacht.",
       "workplace": "Pan",
       "has_timer": true,
       "timer_minutes": 2.0,
-      "is_first_appearance": true
+      "is_first_appearance": false
     },
     {
-      "display_name_en": "Garlic",
-      "display_name_nl": "Knoflook",
+      "display_name_en": "Fry Garlic",
+      "display_name_nl": "Bak knoflook",
       "action_en": "Fry",
-      "action_nl": "Frituren",
+      "action_nl": "Bakken",
       "instructions_en": "Add minced garlic and fry for 1 minute.",
-      "instructions_nl": "Voeg knoflook toe en frituur voor 1 minuut.",
+      "instructions_nl": "Voeg knoflook toe en bak voor 1 minuut.",
       "workplace": "Pan",
       "has_timer": true,
       "timer_minutes": 1.0,
-      "is_first_appearance": true
+      "is_first_appearance": false
     },
     {
-      "display_name_en": "Rice",
-      "display_name_nl": "Rijst",
-      "action_en": "Add",
-      "action_nl": "Toevoegen",
-      "instructions_en": "Add rice and stir to coat in the oil.",
-      "instructions_nl": "Voeg rijst toe en roer om de olie te bedekken.",
+      "display_name_en": "Cook Rice",
+      "display_name_nl": "Kook rijst",
+      "action_en": "Cook",
+      "action_nl": "Koken",
+      "instructions_en": "Add rice and stir to coat in the oil. Cook for 5 minutes.",
+      "instructions_nl": "Voeg rijst toe en roer om de olie te bedekken. Kook voor 5 minuten.",
       "workplace": "Pan",
-      "has_timer": false,
-      "timer_minutes": null,
-      "is_first_appearance": true
+      "has_timer": true,
+      "timer_minutes": 5.0,
+      "is_first_appearance": false
     },
     {
-      "display_name_en": "Liquid",
-      "display_name_nl": "Vloeistof",
+      "display_name_en": "Add Liquid",
+      "display_name_nl": "Voeg vloeistof toe",
       "action_en": "Add",
-      "action_nl": "Toevoegen",
-      "instructions_en": "Pour in chicken stock and water. Stir well.",
-      "instructions_nl": "Giet kippenbouillon en water toe. Roer goed.",
+      "action_nl": "Voegen",
+      "instructions_en": "Pour in chicken stock and water. Stir well. Cook for 10 minutes.",
+      "instructions_nl": "Giet kippenbouillon en water in. Roer goed. Kook voor 10 minuten.",
       "workplace": "Pan",
-      "has_timer": false,
-      "timer_minutes": null,
-      "is_first_appearance": true
+      "has_timer": true,
+      "timer_minutes": 10.0,
+      "is_first_appearance": false
     },
     {
-      "display_name_en": "Chicken",
-      "display_name_nl": "Kip",
-      "action_en": "Add",
-      "action_nl": "Toevoegen",
-      "instructions_en": "Place chicken thighs on top of the rice.",
-      "instructions_nl": "Leg de kipfilets op de rijst.",
-      "workplace": "Pan",
-      "has_timer": false,
-      "timer_minutes": null,
-      "is_first_appearance": true
-    },
-    {
-      "display_name_en": "Pan",
-      "display_name_nl": "Pan",
-      "action_en": "Cover",
-      "action_nl": "Dekken",
-      "instructions_en": "Cover and cook on low heat for 20 minutes until rice is cooked and liquid absorbed.",
-      "instructions_nl": "Dek af en kook op laag vuur voor 20 minuten tot de rijst gaar is en de vloeistof opgenomen.",
+      "display_name_en": "Cook Chicken and Rice",
+      "display_name_nl": "Kook kip en rijst",
+      "action_en": "Cook",
+      "action_nl": "Koken",
+      "instructions_en": "Place chicken thighs on top of the rice. Cover and cook on low heat for 20 minutes until rice is cooked and liquid absorbed.",
+      "instructions_nl": "Leg kipfilets op de rijst. Dek af en kook op laag vuur voor 20 minuten tot de rijst gaar is en de vloeistof opgenomen is.",
       "workplace": "Pan",
       "has_timer": true,
       "timer_minutes": 20.0,
       "is_first_appearance": false
-    },
-    {
-      "display_name_en": "Garnish",
-      "display_name_nl": "Garnituur",
-      "action_en": "Add",
-      "action_nl": "Toevoegen",
-      "instructions_en": "Garnish with fresh thyme and serve.",
-      "instructions_nl": "Garnieer met verse tijm en serveer.",
-      "workplace": "Bowl",
-      "has_timer": false,
-      "timer_minutes": null,
-      "is_first_appearance": true
     }
   ]
 }

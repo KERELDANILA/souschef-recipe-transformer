@@ -1,16 +1,16 @@
 {
-  "generic_name_en": "Spaghetti Bolognese",
-  "generic_name_nl": "Spaghetti Bolognese",
-  "recipe_name_en": "One-pan Spaghetti Bolognese",
-  "recipe_name_nl": "Spaghetti Bolognese in één pan",
-  "description_en": "Make a delicious Spaghetti Bolognese in just 45 minutes. This recipe is easy to follow and perfect for beginners. SousChef guides you through each step to ensure a perfect dish.",
-  "description_nl": "Maak een heerlijke Spaghetti Bolognese in slechts 45 minuten. Deze recept is eenvoudig te volgen en ideaal voor beginners. SousChef begeleidt je door elke stap om een perfecte maaltijd te bereiken.",
+  "generic_name_en": "Pasta Bolognese",
+  "generic_name_nl": "Pasta Bolognese",
+  "recipe_name_en": "One-pan Pasta Bolognese",
+  "recipe_name_nl": "Pasta Bolognese in één pan",
+  "description_en": "Cook a delicious pasta bolognese in just 45 minutes. This recipe is easy to follow and perfect for beginners. SousChef will guide you through each step.",
+  "description_nl": "Kook een heerlijke pasta bolognese in slechts 45 minuten. Deze recept is eenvoudig te volgen en ideaal voor beginners. SousChef zal je door elke stap leiden.",
   "difficulty": "Intermediate",
   "servings": 4,
   "prep_time_minutes": 10,
   "cook_time_minutes": 35,
   "calories_per_person": 700,
-  "protein_g": 50.0,
+  "protein_g": 40.0,
   "carbs_g": 60.0,
   "fat_g": 30.0,
   "ingredients": [
@@ -21,7 +21,7 @@
     },
     {
       "name_en": "Minced beef",
-      "name_nl": "Gebakken vlees",
+      "name_nl": "Gezaagd vlees",
       "quantity": "500g"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "name_en": "Garlic",
-      "name_nl": "Teentjes",
+      "name_nl": "Teentje",
       "quantity": "2 cloves"
     },
     {
@@ -52,22 +52,22 @@
     {
       "name_en": "Olive oil",
       "name_nl": "Olijfolie",
-      "quantity": "1 unit"
+      "quantity": "1 piece"
     },
     {
       "name_en": "Salt",
       "name_nl": "Zout",
-      "quantity": "1 unit"
+      "quantity": "1 piece"
     },
     {
       "name_en": "Pepper",
       "name_nl": "Peper",
-      "quantity": "1 unit"
+      "quantity": "1 piece"
     },
     {
       "name_en": "Parmesan",
       "name_nl": "Parmezaan",
-      "quantity": "1 unit"
+      "quantity": "1 piece"
     }
   ],
   "steps": [
@@ -80,7 +80,7 @@
       "instructions_nl": "Kook de spaghetti volgens de aanwijzingen op de verpakking.",
       "workplace": "Stove",
       "has_timer": true,
-      "timer_minutes": 8.0,
+      "timer_minutes": 10.0,
       "is_first_appearance": false
     },
     {
@@ -97,11 +97,11 @@
     },
     {
       "display_name_en": "Garlic",
-      "display_name_nl": "Teentjes",
+      "display_name_nl": "Teentje",
       "action_en": "Peel and chop",
       "action_nl": "Schillen en snijden",
       "instructions_en": "Peel the garlic and chop it into small pieces.",
-      "instructions_nl": "Schil de teentjes en snijd hem in kleine stukjes.",
+      "instructions_nl": "Schil de teentje en snijd hem in kleine stukjes.",
       "workplace": "Cutting board",
       "has_timer": false,
       "timer_minutes": null,
@@ -133,11 +133,11 @@
     },
     {
       "display_name_en": "Garlic",
-      "display_name_nl": "Teentjes",
-      "action_en": "Fry",
-      "action_nl": "Bruinen",
-      "instructions_en": "Fry the garlic in the pan for 1 minute.",
-      "instructions_nl": "Bruin de teentjes in de pan voor 1 minuut.",
+      "display_name_nl": "Teentje",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the garlic to the pan and fry for 1 minute.",
+      "instructions_nl": "Voeg het teentje toe aan de pan en bruin voor 1 minuut.",
       "workplace": "Pan",
       "has_timer": true,
       "timer_minutes": 1.0,
@@ -145,11 +145,11 @@
     },
     {
       "display_name_en": "Minced beef",
-      "display_name_nl": "Gebakken vlees",
-      "action_en": "Cook",
-      "action_nl": "Koken",
-      "instructions_en": "Cook the minced beef in the pan for 5 minutes until browned.",
-      "instructions_nl": "Kook het gebakken vlees in de pan voor 5 minuten tot het bruin is.",
+      "display_name_nl": "Gezaagd vlees",
+      "action_en": "Add",
+      "action_nl": "Toevoegen",
+      "instructions_en": "Add the minced beef to the pan and cook for 5 minutes until browned.",
+      "instructions_nl": "Voeg het gezaagd vlees toe aan de pan en kook voor 5 minuten tot bruin.",
       "workplace": "Pan",
       "has_timer": true,
       "timer_minutes": 5.0,
@@ -196,8 +196,8 @@
       "display_name_nl": "Zout",
       "action_en": "Add",
       "action_nl": "Toevoegen",
-      "instructions_en": "Add salt to the pan.",
-      "instructions_nl": "Voeg zout toe aan de pan.",
+      "instructions_en": "Add salt to taste.",
+      "instructions_nl": "Voeg zout naar smaak toe.",
       "workplace": "Pan",
       "has_timer": false,
       "timer_minutes": null,
@@ -208,23 +208,23 @@
       "display_name_nl": "Peper",
       "action_en": "Add",
       "action_nl": "Toevoegen",
-      "instructions_en": "Add pepper to the pan.",
-      "instructions_nl": "Voeg peper toe aan de pan.",
+      "instructions_en": "Add pepper to taste.",
+      "instructions_nl": "Voeg peper naar smaak toe.",
       "workplace": "Pan",
       "has_timer": false,
       "timer_minutes": null,
       "is_first_appearance": false
     },
     {
-      "display_name_en": "Spaghetti",
-      "display_name_nl": "Spaghetti",
-      "action_en": "Drain",
-      "action_nl": "Giet af",
-      "instructions_en": "Drain the spaghetti.",
-      "instructions_nl": "Giet de spaghetti af.",
-      "workplace": "Bowl",
-      "has_timer": false,
-      "timer_minutes": null,
+      "display_name_en": "Pasta Bolognese",
+      "display_name_nl": "Pasta Bolognese",
+      "action_en": "Simmer",
+      "action_nl": "Langzaam koken",
+      "instructions_en": "Simmer the pasta bolognese on low heat for 20 minutes.",
+      "instructions_nl": "Laat de pasta bolognese op laag vuur sudderen voor 20 minuten.",
+      "workplace": "Stove",
+      "has_timer": true,
+      "timer_minutes": 20.0,
       "is_first_appearance": false
     }
   ]
