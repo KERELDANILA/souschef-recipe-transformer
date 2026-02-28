@@ -33,7 +33,7 @@ All 10 passed Pydantic validation.
 | Validation pass rate | 10/10 |
 | Passed on first critique | 6/10 |
 | Needed repair cycle | 4/10 |
-| Average steps per recipe | around 9 |
+| Average steps per recipe | around 10 |
 
 ## Why I made certain decisions
 
